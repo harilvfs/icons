@@ -4,19 +4,19 @@ A collection of custom cursors and icons, compatible with both **X11** and **Way
 
 ## Installation Instructions
 
-### 1. Clone the Repository
+### Clone the Repository
 First, clone this repository to your local machine:
 ```bash
 git clone https://github.com/harilvfs/icons
 ```
 
-### 2. Change to the Cloned Directory
+### Change to the Cloned Directory
 Navigate into the directory that contains the cursors and icons:
 ```bash
-cd cursor-icon-collection
+cd icons/
 ```
 
-### 3. Install the Cursors & Icons
+### Install the Cursors & Icons
 
 You can install the cursors and icons either system-wide or for a specific user.
 
@@ -43,17 +43,17 @@ After installing the icons and cursors, you need to apply them. The steps differ
 
 To apply icons and cursors on an **X11**-based system, use **lxappearance**:
 
-1. Install **lxappearance** if you haven’t already:
+Install **lxappearance** if you haven’t already:
    ```bash
    sudo pacman -S lxappearance
    ```
 
-2. Launch **lxappearance**:
+Launch **lxappearance**:
    ```bash
    lxappearance
    ```
 
-3. In **lxappearance**, you can select and apply the newly installed icons and cursors under the "Icon Theme" and "Cursor Theme" sections.
+In **lxappearance**, you can select and apply the newly installed icons and cursors under the "Icon Theme" and "Cursor Theme" sections.
 
 ### For Wayland
 
@@ -77,13 +77,13 @@ On **Wayland**, you can use **nwg-look** for GTK and **Kvantum** for Qt-based ap
 
 #### Applying the themes:
 
-1. **nwg-look**: To apply the icons and cursors for GTK applications:
+**nwg-look**: To apply the icons and cursors for GTK applications:
    ```bash
    nwg-look
    ```
    Select your icons and cursors from the relevant sections and apply.
 
-2. **Kvantum Manager**: To apply the theme for Qt applications:
+**Kvantum Manager**: To apply the theme for Qt applications:
    ```bash
    kvantummanager
    ```
