@@ -2,7 +2,7 @@
 
 A collection of custom cursors and icons, compatible with both **X11** and **Wayland** desktop environments.
 
-## Installation Instructions
+## Installation
 
 ### Clone the Repository
 First, clone this repository to your local machine:
