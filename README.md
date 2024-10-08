@@ -1,4 +1,4 @@
-# Cursor & Icon Collection for Carch
+## Cursor & Icon Collection
 
 A collection of custom cursors and icons, compatible with both **X11** and **Wayland** desktop environments.
 
